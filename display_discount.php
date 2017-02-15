@@ -18,10 +18,10 @@
         <span><?php echo htmlspecialchars($product_description); ?></span><br>
 
         <label>List Price:</label>
-        <span><?php echo htmlspecialchars($list_price_f); ?></span><br>
+        <span><?php echo htmlspecialchars($list_price); ?></span><br>
 
         <label>Standard Discount:</label>
-        <span><?php echo htmlspecialchars($discount_percent_f); ?></span><br>
+        <span><?php echo htmlspecialchars($discount_percent); ?></span><br>
 
         <label>Discount Amount:</label>
         <span><?php echo ''; ?></span><br>
