@@ -15,7 +15,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Product Discount Calculator</title>
+    <title>Product Discount Calculator </title>
     <link rel="stylesheet" type="text/css" href="main.css">
 </head>
 <body>
